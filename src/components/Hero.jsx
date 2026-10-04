@@ -410,7 +410,7 @@ export default function Hero() {
 };
 
   return (
-    <section id="home" className="relative overflow-hidden flex items-center" style={{ minHeight: "100vh" }}>
+    <section id="home" className="relative overflow-hidden flex items-center" style={{ minHeight: "820px" }}>
       <HeroVisual />
       {/* TOP-RIGHT GOLDEN GLOW */}
 <div
