@@ -12,6 +12,14 @@ export const PROJECTS = [
     description: "A creative social media design campaign created to build a strong and engaging visual presence across digital platforms.",
     image: "/projects/cover.png",
     gallery: [
+      "/projects/burger.png",
+      "/projects/burger1.png",
+      "/projects/burger2.png",
+      "/projects/burger3.png",
+      "/projects/burger4.png",
+      "/projects/burger7.png",
+      "/projects/burger8.png",
+      "/projects/burger9.png",
       "/projects/social-media-1.jpg",
       "/projects/social-media-2.jpg",
       "/projects/social-media-4.png",
@@ -19,6 +27,7 @@ export const PROJECTS = [
       "/projects/social-media-6.png",
       "/projects/social-media-7.png",
       "/projects/social-media-8.png",
+      "/projects/social-media-8 (2).png",
     ],
     overview:
       "A visually engaging social media campaign focused on creating a consistent, modern, and attractive digital presence.",
@@ -403,6 +412,38 @@ export const PROJECTS = [
       "Concept → Art Direction → Product Composition → Typography → Color & Lighting → Final Refinement",
     deliverables: ["Luxury Watch Promotional Designs", "Social Media Campaign Posts", "Smart Watch Advertising Visuals", "Product Feature Graphics", "Promotional Sales Creatives", "E-commerce Advertising Assets", "Campaign Creative Assets",],
     results: "A versatile watch campaign with 9 visually distinct promotional creatives designed to highlight each product while maintaining a polished and premium brand presence.",
+  },
+
+   {
+    id: 13,
+    title: "Luxury Jewelry Advertising Campaign",
+    category: "Jewelry Social Media Design",
+    year: "2026",
+    description: "Premium jewelry ad design with an elegant, minimalist look, refined typography, and luxury product presentation.",
+    image: "projects/cover15.png",
+    gallery: [
+      "/projects/ring1.png",
+      "/projects/ring2.png",
+      "/projects/ring3.png",
+      "/projects/ring4.png",
+      "/projects/ring5.png",
+      "/projects/ring6.png",
+      "/projects/ring7.png",
+      "/projects/ring8.png",
+      "/projects/ring9.png",
+      "/projects/ring10.png",
+      "/projects/ring11.png",
+      "/projects/ring12.png",
+      "/projects/ring13.png",
+      "/projects/ring14.png",
+     
+    ],
+    overview:
+      "Premium jewelry social media ad focused on elegance, luxury, and product appeal.",
+    process:
+      "Developed a clean layout with refined typography, luxury colors, lighting, and a strong product-focused composition.",
+    deliverables: ["Premium Jewelry Social Media Designs", "Social Media Campaign Posts", "Luxury & Minimal Visual Style", "Product-Focused Composition", "CTA, Website & Contact Integration", "E-commerce Advertising Assets", "Campaign Creative Assets",],
+    results: "A polished, high-end promotional design optimized for social media and brand presentation.",
   },
 ];
 
